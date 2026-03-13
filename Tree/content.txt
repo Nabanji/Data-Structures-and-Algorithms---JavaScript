@@ -12,4 +12,5 @@
 
 
 
-Binary Search Tree -> A BST is a special kind of binary tree used to organize data in a sorted way. It works like a filing cabinet where you can efficiently search, add or remove items.... NOTE ->Go left if your value is smaller than the current branch. Go right if your value is bigger
+Binary Search Tree -> A BST is a special kind of binary tree used to organize data in a SORTED way. It works like a filing cabinet where you can efficiently search, add or remove items.... NOTE ->Go left if your value is smaller than the current branch. Go right if your value is bigger
+                   - Go to the left if the value is smaller, go to the right if the value is larger
